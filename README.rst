@@ -10,7 +10,9 @@ concise. Additionally it contains possibility to handle subcommands (e.g.
 Quick example
 -------------
 
-That's an example of an option definition: ::
+That's an example of an option definition:
+
+.. code:: python
 
   import sys
   import argue
